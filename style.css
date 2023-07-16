@@ -3,5 +3,37 @@
 
 /* Body part css  */
 body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Are css  */
+header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 20px 100px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+    font-size: 2.8rem;
+    font-weight: 700px;
+    color: #131313;
+
+}
+nav > ul {
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500px;
+    font-size: 1rem;
+}
+nav li a {
+    text-decoration: none;
+    color:#424242;
 }
