@@ -259,6 +259,53 @@ h3.effect-box-head {
     line-height: 26px;
     width: 525px;
 }
+.sponsered-title {
+    text-align: center;
+    width: 545px;
+    margin: auto;
+}
+.our-sponsered-image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 65px 0px;
+}
+.our-sponsered-title{
+    font-size: 2.75rem;
+    color: #131313;
+    font-style: normal;
+    line-height: 0;
+    font-weight: 700;
+}
+p.our-sponsered-description{
+    color: #727272;
+    font-size: 1rem;
+    font-size: normal;
+    text-align: center;
+}
+section.our-sponsered {
+    padding: 40px 0;
+}
+.sponsered-title {
+    text-align: center;
+    width: 545px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
