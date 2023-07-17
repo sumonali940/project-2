@@ -112,6 +112,7 @@ section.terms-container {
     align-content: center;
     justify-content: center;
     align-items: center;
+    padding: 50px 0;
 }
 .terms-content-title{
     font-size: 3.25rem;
