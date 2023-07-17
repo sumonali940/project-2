@@ -278,7 +278,6 @@ h3.effect-box-head {
     font-size: 2.75rem;
     color: #131313;
     font-style: normal;
-    line-height: 0;
     font-weight: 700;
 }
 p.our-sponsered-description{
@@ -307,6 +306,7 @@ p.footer-title{
 @media screen and (max-width:576px){
     .container{
         width: 95%;
+        margin: 0 auto;
     }
     .banner{
         width: unset;
@@ -403,6 +403,7 @@ p.footer-title{
 @media screen and (min-width:576px) and (max-width:768px){
     .container{
         width: 95%;
+        margin: auto;
     }
     .banner{
         width: unset;
